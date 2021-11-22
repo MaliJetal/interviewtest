@@ -3,10 +3,6 @@ h1 {
   margin: 0 0 10px 0;
 }
 
-{/* TODO Task 3 */}
-
-{/* TODO Task 3 */}
-
 img {
   border-radius: 3px;
   border: 1px solid black;
@@ -16,4 +12,32 @@ img {
 .back {
   height: 445px;
   background-color: lightgreen;
+}
+
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 2px;
+  width: 200 px;
+  height: 300px;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid black;
+  border-radius: 2px;
+}
+
+.card-heading {
+  padding-bottom: 1px;
+}
+
+.card-img {
+  margin: auto;
+  display: flex;
+  width: 200px;
+  border: 2px solid black;
+  border-radius: 1px;
+}
+
+.t-body > tr {
 }

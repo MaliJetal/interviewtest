@@ -11,7 +11,8 @@ You can run the application with the command 'yarn start'
 
 *** Task 1 *** 5 minutes
 
-There ist a modal component (ChangeCardSetModal.jsx) which should open a modal when the user clicks the 'Current card set' button.
+There ist a modal component (ChangeCardSetModal.jsx) which should open a modal when the user clicks the 
+'Current card set' button.
 The component is already there you just have to add it to the marked space in the Game.jsx file
 You only have to add the component and give it the right properties. All the properties are already there,
 you don't have to add something on your own (Game.jsx)
